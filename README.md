@@ -1,7 +1,6 @@
 <h1 align="center">Helloo :v: My name is Nanta :grin:</h1>
 <h3 align="center">I am a bachelor student of Information Technology in Universitas Gadjah Mada</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nantapranawa&label=Profile%20views&color=0e75b6&style=flat" alt="nantapranawa" /> </p>
 
 ## Nice to meet you!!
 
