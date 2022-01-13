@@ -26,7 +26,6 @@ Oh yea and Fun fact, I can't live a day without music ⚡ , and I play :guitar:
 <a href="https://dribbble.com/pilnta21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="pilnta21" height="30" width="40" /></a>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<nantapranawa>&theme=<THEME_NAME>" />
 
 
 ![cat savage](https://user-images.githubusercontent.com/74170536/149267726-76064bd3-dc01-42ff-bb31-32f22b6dfeb3.gif)
