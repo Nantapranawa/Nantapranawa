@@ -1,14 +1,10 @@
-<h1 align="center">Helloo :v: My name is Nanta :grin:</h1>
+<h1 align="center">Helloo I'm Nanta!</h1>
 <h3 align="center">I am a bachelor student of Information Technology in Universitas Gadjah Mada</h3>
 
 
 ## Nice to meet you!!
 
-🌱 I’m an IT student who's currently really into UI/UX design and C++ language. I love designing applications, web, and also finding really cool designs of UX. Well, I'm not an expert yet, but who said I couldn't be one?
-
-💬 You could say that my interest is always into the tech world and also music :musical_note:
-
-🥅 My 2022 Goals: Be yourself!
+I’m an IT student. I love designing applications, web, and also finding really cool designs of UX. Well, I'm not an expert yet, but who said I couldn't be one?
 
 📫 You can reach me with: pranawananta21@gmail.com or other social media below
 
