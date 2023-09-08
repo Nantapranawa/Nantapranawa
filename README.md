@@ -4,7 +4,7 @@
 
 ## Nice to meet you!!
 
-I’m an IT student. I love designing applications, web, and also finding really cool designs of UX. Well, I'm not an expert yet, but who said I couldn't be one?
+Well, I'm not an expert yet, but who said I couldn't be one?
 
 📫 You can reach me with: pranawananta21@gmail.com or other social media below
 
